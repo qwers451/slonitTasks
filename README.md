@@ -1,7 +1,7 @@
 # Основные команды Git
 
 Перечень базовых команд Git, а также флаги, с которыми они могут быть запущены.
-[Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 
 ## 1. Настройка Git
 
