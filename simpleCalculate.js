@@ -7,7 +7,6 @@ const operations = {
 
 const calculate = (a, b, operation) => operation(a, b);
 
-// Примеры использования
 const selectedOperation1 = "multiply";
 console.log(calculate(6, 3, operations[selectedOperation1])); // 18
 
